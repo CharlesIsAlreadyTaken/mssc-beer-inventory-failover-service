@@ -1,4 +1,4 @@
-package com.example.msscbeerinventoryfailoverservice;
+package guru.sfg.msscbeerinventoryfailoverservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

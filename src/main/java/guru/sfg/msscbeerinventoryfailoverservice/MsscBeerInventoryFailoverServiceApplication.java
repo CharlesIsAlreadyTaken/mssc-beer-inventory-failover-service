@@ -1,4 +1,4 @@
-package com.example.msscbeerinventoryfailoverservice;
+package guru.sfg.msscbeerinventoryfailoverservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
